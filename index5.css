@@ -4,8 +4,7 @@ body{
     background-color:#151829;
 
 }
-#top_ct{
-    background-color: #1C2137;
+.top_ct {  background-color: #1C2137;
     height: 70px;
     list-style: none;
     padding-left: 20px;
@@ -13,7 +12,7 @@ body{
 }
 
 
-#bot_ct{
+.bot_ct{
     text-align: center;
     color: #ffff;
     padding-top: 10px;
